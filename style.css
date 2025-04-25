@@ -1,0 +1,25 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #333;
+}
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+}
+.hero img {
+  width: 250px;
+}
+.offer-box {
+  margin-top: 20px;
+}
+.cta-button {
+  background-color: #ff7e1b;
+  padding: 12px 24px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 6px;
+}
